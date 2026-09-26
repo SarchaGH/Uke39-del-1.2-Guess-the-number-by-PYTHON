@@ -39,4 +39,4 @@ while True:
 3. Run the file in the terminal by typing:
    python "Guesses the number3.py"
 
-##Thankyou!, good bye.   
+## Thankyou!, good bye.   
