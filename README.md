@@ -32,3 +32,11 @@ while True:
    print(r'             ||     ||')
 
   ```
+## How to Run the Game
+
+1. Download the code (Download ZIP or clone the repository)
+2. Open the folder in VS Code
+3. Run the file in the terminal by typing:
+   python "Guesses the number3.py"
+
+##Thankyou!, good bye.   
